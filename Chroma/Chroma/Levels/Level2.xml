@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Level>
+  <Enemy Name="Scout" SpawnTime="1" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="1" SpawnLocation="2" />
+  <Enemy Name="Grunt" SpawnTime="1" SpawnLocation="1"/>
+
+  <Enemy Name="Grunt" SpawnTime="4" SpawnLocation="1" />
+  <Enemy Name="Grunt" SpawnTime="4" SpawnLocation="3" />
+
+  <Enemy Name="Scout" SpawnTime="6" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="6" SpawnLocation="2" />
+  
+  <Enemy Name="Scout" SpawnTime="7" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="7" SpawnLocation="2" />
+  
+  <Enemy Name="Scout" SpawnTime="8" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="8" SpawnLocation="2" />
+  
+  <Enemy Name="Scout" SpawnTime="9" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="9" SpawnLocation="2" />
+
+  <Enemy Name="Grunt" SpawnTime="12" SpawnLocation="2" />
+
+  <Enemy Name="Grunt" SpawnTime="13" SpawnLocation="1" />
+  <Enemy Name="Grunt" SpawnTime="13" SpawnLocation="3" />
+  
+  <Enemy Name="Grunt" SpawnTime="14" SpawnLocation="0" />
+  <Enemy Name="Grunt" SpawnTime="14" SpawnLocation="4" />
+
+  <Enemy Name="Scout" SpawnTime="18" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="18" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="18" SpawnLocation="3" />
+  <Enemy Name="Scout" SpawnTime="18" SpawnLocation="4" />
+
+  <Enemy Name="Grunt" SpawnTime="20" SpawnLocation="1" />
+  <Enemy Name="Grunt" SpawnTime="24" SpawnLocation="4" />
+
+  <Enemy Name="Scout" SpawnTime="26" SpawnLocation="4" />
+
+  <Enemy Name="Scout" SpawnTime="28" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="28" SpawnLocation="3" />
+
+  <Enemy Name="Scout" SpawnTime="30" SpawnLocation="2" />
+
+  <Enemy Name="Grunt" SpawnTime="32" SpawnLocation="1" />
+  <Enemy Name="Grunt" SpawnTime="32" SpawnLocation="3" />
+
+  <Enemy Name="Grunt" SpawnTime="34" SpawnLocation="0" />
+  <Enemy Name="Grunt" SpawnTime="34" SpawnLocation="4" />
+
+  <Enemy Name="Scout" SpawnTime="33" SpawnLocation="3" />
+  <Enemy Name="Scout" SpawnTime="33" SpawnLocation="4" />
+  <Enemy Name="Scout" SpawnTime="36" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="36" SpawnLocation="1" />
+
+  <Enemy Name="Grunt" SpawnTime="38" SpawnLocation="2" />
+</Level>

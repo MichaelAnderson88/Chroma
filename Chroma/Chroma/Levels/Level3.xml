@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Level>
+  <!-- Intense Section -->
+  <Enemy Name="Grunt" SpawnTime="1" SpawnLocation="1" />
+  <Enemy Name="Grunt" SpawnTime="2" SpawnLocation="2" />
+  <Enemy Name="Grunt" SpawnTime="1" SpawnLocation="3" />
+  
+  <Enemy Name="Scout" SpawnTime="1" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="2" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="3" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="4" SpawnLocation="0" />
+
+  <Enemy Name="Scout" SpawnTime="6" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="6" SpawnLocation="3" />
+  <Enemy Name="Scout" SpawnTime="8" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="8" SpawnLocation="3" />
+
+  <Enemy Name="Scout" SpawnTime="8" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="8" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="8" SpawnLocation="2" />
+  <Enemy Name="Scout" SpawnTime="8" SpawnLocation="3" />
+  <!-- Slight Slowdown -->
+  <Enemy Name="Grunt" SpawnTime="10" SpawnLocation="2" />
+  
+  <Enemy Name="Scout" SpawnTime="12" SpawnLocation="3" />
+  <Enemy Name="Scout" SpawnTime="13" SpawnLocation="3" />
+  <Enemy Name="Scout" SpawnTime="14" SpawnLocation="3" />
+  <Enemy Name="Scout" SpawnTime="15" SpawnLocation="3" />
+
+  <Enemy Name="Grunt" SpawnTime="17" SpawnLocation="0" />
+  <Enemy Name="Grunt" SpawnTime="17" SpawnLocation="4" />
+
+  <Enemy Name="Grunt" SpawnTime="22" SpawnLocation="0" />
+  <Enemy Name="Grunt" SpawnTime="22" SpawnLocation="2" />
+  <Enemy Name="Grunt" SpawnTime="22" SpawnLocation="4" />
+  <Enemy Name="Scout" SpawnTime="24" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="24" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="24" SpawnLocation="2" />
+  <Enemy Name="Scout" SpawnTime="24" SpawnLocation="3" />
+  
+  <!-- Level Repeat -->
+  <Enemy Name="Grunt" SpawnTime="28" SpawnLocation="1" />
+  <Enemy Name="Grunt" SpawnTime="29" SpawnLocation="2" />
+  <Enemy Name="Grunt" SpawnTime="28" SpawnLocation="3" />
+
+  <Enemy Name="Scout" SpawnTime="28" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="29" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="30" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="31" SpawnLocation="0" />
+
+  <Enemy Name="Scout" SpawnTime="33" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="33" SpawnLocation="3" />
+  <Enemy Name="Scout" SpawnTime="35" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="35" SpawnLocation="3" />
+
+  <Enemy Name="Scout" SpawnTime="35" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="35" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="35" SpawnLocation="2" />
+  <Enemy Name="Scout" SpawnTime="35" SpawnLocation="3" />
+  <!-- Slight Slowdown -->
+  <Enemy Name="Grunt" SpawnTime="37" SpawnLocation="2" />
+
+  <Enemy Name="Scout" SpawnTime="39" SpawnLocation="3" />
+  <Enemy Name="Scout" SpawnTime="40" SpawnLocation="3" />
+  <Enemy Name="Scout" SpawnTime="41" SpawnLocation="3" />
+  <Enemy Name="Scout" SpawnTime="42" SpawnLocation="3" />
+
+  <Enemy Name="Grunt" SpawnTime="44" SpawnLocation="0" />
+  <Enemy Name="Grunt" SpawnTime="44" SpawnLocation="4" />
+
+  <Enemy Name="Grunt" SpawnTime="49" SpawnLocation="0" />
+  <Enemy Name="Grunt" SpawnTime="49" SpawnLocation="2" />
+  <Enemy Name="Grunt" SpawnTime="49" SpawnLocation="4" />
+  <Enemy Name="Scout" SpawnTime="51" SpawnLocation="0" />
+  <Enemy Name="Scout" SpawnTime="51" SpawnLocation="1" />
+  <Enemy Name="Scout" SpawnTime="51" SpawnLocation="2" />
+  <Enemy Name="Scout" SpawnTime="51" SpawnLocation="3" />
+  <Enemy Name="BossTheShip" SpawnTime="65" SpawnLocation="2" />
+</Level>

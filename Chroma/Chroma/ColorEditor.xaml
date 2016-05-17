@@ -1,0 +1,80 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Chroma.Colors"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot">
+        <Grid.Background>
+            <ImageBrush ImageSource="Silverlight Textures\blueCloud.png" />
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto"/>    
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="240" />
+            <ColumnDefinition Width="240" />
+        </Grid.ColumnDefinitions>
+
+        <!--TitlePanel contains the name of the application and page title-->
+        <StackPanel Grid.Row="0" Margin="12,17,0,28" Grid.ColumnSpan="2">
+            <TextBlock Text="Color Editor" Margin="9,-7,0,0" Style="{StaticResource PhoneTextTitle1Style}"/>
+        </StackPanel>
+
+        <!-- Left hand side of the screen. Buttons and image for Sheild colors -->
+        <Grid x:Name="Shield_Image" Grid.Row="1" Grid.Column="0" Margin="12,0,12,0">
+            <Image Source="Silverlight Textures/Shield.jpg" Name="Shield" />
+        </Grid>
+        <Grid x:Name="Shield1" Grid.Row="2" Grid.Column="0" Margin="12,0,12,0">
+            <Button Height="100" Content="Shield 1" Click="showPopup_Click" Name="S1" Background="Black">
+            </Button>
+        </Grid>
+        <Grid x:Name="Shield2" Grid.Row="3" Grid.Column="0" Margin="12,0,12,0">
+            <Button Height="100" Content="Shield 2" Click="showPopup_Click" Name="S2" Background="Black">
+            </Button>
+        </Grid>
+
+        <!-- Right hand side of the screen. Buttons and image for Projectile colors -->
+        <Grid x:Name="Projectile_Image" Grid.Row="1" Grid.Column="1" Margin="12,0,12,0">
+            <Image Source="Silverlight Textures/Projectile.jpg" Name="Projectile" />
+        </Grid>
+        <Grid x:Name="Projectile1" Grid.Row="2" Grid.Column="1" Margin="12,0,12,0">
+            <Button Height="100" Content="Attack 1" Click="showPopup_Click" Name="W1" Background="Black">
+            </Button>
+        </Grid>
+        <Grid x:Name="Projectile2" Grid.Row="3" Grid.Column="1" Margin="12,0,12,0">
+            <Button Height="100" Content="Attack 2" Click="showPopup_Click" Name="W2" Background="Black">
+            </Button>
+        </Grid>
+        
+        <Popup>
+            
+        </Popup>
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="Start_Game_Grid" Grid.Row="5" Grid.ColumnSpan="2" Margin="12,0,12,0">
+            <!--Create a single button to navigate to the second page which is rendered with the XNA Framework-->
+            <Button Height="100" Width="300" Content="Start Game" Click="Nav_Game">
+                <Button.Background>
+                    <ImageBrush ImageSource="Silverlight Textures\MetalPanel.jpg" />
+                </Button.Background>
+            </Button>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>

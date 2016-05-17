@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sounds\Pulse.wav</Source>
+      <Name>Sounds\Pulse</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Sounds\Pulse.xnb</Output>
+      <Time>2013-11-29T09:46:27.6214959-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\LargeCannon.wav</Source>
+      <Name>Sounds\LargeCannon</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Sounds\LargeCannon.xnb</Output>
+      <Time>2013-11-27T09:59:05.9833791-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Blast1.wav</Source>
+      <Name>Sounds\Blast1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Sounds\Blast1.xnb</Output>
+      <Time>2013-11-29T09:23:22.1768718-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\pixel.png</Source>
+      <Name>Textures\Utilities\pixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\pixel.xnb</Output>
+      <Time>2013-03-16T18:45:37.7897009-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlayerShip\PlayerLeft1.png</Source>
+      <Name>Textures\PlayerShip\PlayerLeft1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\PlayerShip\PlayerLeft1.xnb</Output>
+      <Time>2013-11-28T05:06:20.8287632-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlayerShip\PlayerLeft2.png</Source>
+      <Name>Textures\PlayerShip\PlayerLeft2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\PlayerShip\PlayerLeft2.xnb</Output>
+      <Time>2013-11-28T05:09:23.9651656-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlayerShip\PlayerMid1.png</Source>
+      <Name>Textures\PlayerShip\PlayerMid1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\PlayerShip\PlayerMid1.xnb</Output>
+      <Time>2013-11-28T04:38:27.7508165-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlayerShip\PlayerMid2.png</Source>
+      <Name>Textures\PlayerShip\PlayerMid2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\PlayerShip\PlayerMid2.xnb</Output>
+      <Time>2013-11-28T04:38:47.5792139-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlayerShip\PlayerRight1.png</Source>
+      <Name>Textures\PlayerShip\PlayerRight1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\PlayerShip\PlayerRight1.xnb</Output>
+      <Time>2013-11-28T04:28:30.9700558-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\PlayerShip\PlayerRight2.png</Source>
+      <Name>Textures\PlayerShip\PlayerRight2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\PlayerShip\PlayerRight2.xnb</Output>
+      <Time>2013-11-28T04:33:33.4217298-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UserControls\Dpad_All.png</Source>
+      <Name>Textures\UserControls\Dpad_All</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\UserControls\Dpad_All.xnb</Output>
+      <Time>2013-05-13T17:41:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UserControls\ThumbBase.png</Source>
+      <Name>Textures\UserControls\ThumbBase</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\UserControls\ThumbBase.xnb</Output>
+      <Time>2013-11-29T04:41:37.4264998-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UserControls\ThumbStick.png</Source>
+      <Name>Textures\UserControls\ThumbStick</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\UserControls\ThumbStick.xnb</Output>
+      <Time>2013-05-13T16:45:06-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BossShip\BossShip1.png</Source>
+      <Name>Textures\BossShip\BossShip1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\BossShip\BossShip1.xnb</Output>
+      <Time>2013-11-28T03:20:37.5549964-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BossShip\BossShip2.png</Source>
+      <Name>Textures\BossShip\BossShip2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\BossShip\BossShip2.xnb</Output>
+      <Time>2013-11-28T03:20:48.146078-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BossShip\BossShip3.png</Source>
+      <Name>Textures\BossShip\BossShip3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\BossShip\BossShip3.xnb</Output>
+      <Time>2013-11-28T03:20:56.2678522-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BossShip\BossShip4.png</Source>
+      <Name>Textures\BossShip\BossShip4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\BossShip\BossShip4.xnb</Output>
+      <Time>2013-11-28T03:21:03.8046776-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BossShip\BossShip5.png</Source>
+      <Name>Textures\BossShip\BossShip5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\BossShip\BossShip5.xnb</Output>
+      <Time>2013-11-28T03:21:09.0630784-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\BossShip\BossShip6.png</Source>
+      <Name>Textures\BossShip\BossShip6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\BossShip\BossShip6.xnb</Output>
+      <Time>2013-11-28T03:21:55.9788973-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\Shield.png</Source>
+      <Name>Textures\Utilities\Shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\Shield.xnb</Output>
+      <Time>2013-11-29T02:15:13.816206-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemies\Grunt1.png</Source>
+      <Name>Textures\Enemies\Grunt1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Enemies\Grunt1.xnb</Output>
+      <Time>2013-11-28T09:16:51.9242601-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemies\Grunt2.png</Source>
+      <Name>Textures\Enemies\Grunt2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Enemies\Grunt2.xnb</Output>
+      <Time>2013-11-28T09:17:10.5711968-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemies\Grunt3.png</Source>
+      <Name>Textures\Enemies\Grunt3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Enemies\Grunt3.xnb</Output>
+      <Time>2013-11-28T09:17:04.8831107-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemies\Grunt4.png</Source>
+      <Name>Textures\Enemies\Grunt4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Enemies\Grunt4.xnb</Output>
+      <Time>2013-11-28T09:17:15.3990124-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemies\Scout1.png</Source>
+      <Name>Textures\Enemies\Scout1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Enemies\Scout1.xnb</Output>
+      <Time>2013-11-28T08:59:12.9479173-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemies\Scout2.png</Source>
+      <Name>Textures\Enemies\Scout2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Enemies\Scout2.xnb</Output>
+      <Time>2013-11-28T09:00:18.3650409-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemies\Scout3.png</Source>
+      <Name>Textures\Enemies\Scout3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Enemies\Scout3.xnb</Output>
+      <Time>2013-11-28T09:00:33.8832575-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Enemies\Scout4.png</Source>
+      <Name>Textures\Enemies\Scout4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Enemies\Scout4.xnb</Output>
+      <Time>2013-11-28T09:01:43.2346799-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UserControls\InterfaceOverlay.jpg</Source>
+      <Name>Textures\UserControls\InterfaceOverlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\UserControls\InterfaceOverlay.xnb</Output>
+      <Time>2013-11-29T05:08:46.7431414-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\UserControls\Button.png</Source>
+      <Name>Textures\UserControls\Button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\UserControls\Button.xnb</Output>
+      <Time>2013-11-29T04:44:09.3915782-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\EnemyPulse.png</Source>
+      <Name>Textures\Utilities\EnemyPulse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\EnemyPulse.xnb</Output>
+      <Time>2013-11-29T05:34:12.1273685-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\PlayerPulse.png</Source>
+      <Name>Textures\Utilities\PlayerPulse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\PlayerPulse.xnb</Output>
+      <Time>2013-11-29T05:23:23.0751935-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\MetalPanel.jpg</Source>
+      <Name>Textures\Utilities\MetalPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\MetalPanel.xnb</Output>
+      <Time>2013-12-30T03:05:38.0168174-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\pauseBackground.jpg</Source>
+      <Name>Textures\Utilities\pauseBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\pauseBackground.xnb</Output>
+      <Time>2013-12-30T21:53:29.9053338-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\MenuPanel.jpg</Source>
+      <Name>Textures\Utilities\MenuPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\MenuPanel.xnb</Output>
+      <Time>2013-12-30T22:43:45.6248601-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\ResumePanel.jpg</Source>
+      <Name>Textures\Utilities\ResumePanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\ResumePanel.xnb</Output>
+      <Time>2013-12-30T22:45:33.7603598-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\pauseButton.png</Source>
+      <Name>Textures\Utilities\pauseButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\pauseButton.xnb</Output>
+      <Time>2013-12-30T23:25:27.8011222-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\HealthBar.png</Source>
+      <Name>Textures\Utilities\HealthBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\HealthBar.xnb</Output>
+      <Time>2013-12-31T02:31:26.8483077-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\NextPanel.jpg</Source>
+      <Name>Textures\Utilities\NextPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\NextPanel.xnb</Output>
+      <Time>2013-12-31T04:22:19.2016545-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Utilities\RestartPanel.jpg</Source>
+      <Name>Textures\Utilities\RestartPanel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Utilities\RestartPanel.xnb</Output>
+      <Time>2013-12-31T04:21:37.6894854-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Explosions\explosion1.png</Source>
+      <Name>Textures\Explosions\explosion1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Explosions\explosion1.xnb</Output>
+      <Time>2014-01-01T15:26:23.3066093-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Explosions\explosion2.png</Source>
+      <Name>Textures\Explosions\explosion2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Explosions\explosion2.xnb</Output>
+      <Time>2014-01-01T15:26:23.3166093-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Explosions\explosion3.png</Source>
+      <Name>Textures\Explosions\explosion3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Explosions\explosion3.xnb</Output>
+      <Time>2014-01-01T15:26:23.3216124-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Explosions\explosion4.png</Source>
+      <Name>Textures\Explosions\explosion4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Textures\Explosions\explosion4.xnb</Output>
+      <Time>2014-01-01T15:26:23.3266118-08:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-12-30T21:59:21.7542744-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\inktuta.mp3</Source>
+      <Name>Music\inktuta</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Music\inktuta.xnb</Output>
+      <Extra>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Music\inktuta.wma</Extra>
+      <Time>2005-10-17T12:44:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\dranik.mp3</Source>
+      <Name>Music\dranik</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Music\dranik.xnb</Output>
+      <Extra>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Music\dranik.wma</Extra>
+      <Time>2005-10-17T12:47:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Music\riftseekers.mp3</Source>
+      <Name>Music\riftseekers</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Music\riftseekers.xnb</Output>
+      <Extra>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\Music\riftseekers.wma</Extra>
+      <Time>2005-10-17T12:46:56-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{1E46787B-42FE-4950-8C8B-D21A16AD86D8}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLibContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Michael\Desktop\Chroma\trunk\Chroma\Chroma\ChromaLib\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-03-16T14:06:06.895761-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
